@@ -8,4 +8,9 @@ At the moment, the grid is always initialized with a random seed. An option to i
 
 ![Demo](/demo.gif?raw=true "Demo")
 
-The current iteration of the GUI portion is hacky and still needs further work.
+The current iteration of the GUI still needs further work.
+
+To run, execute the following command:
+```sh
+python app.py
+```
